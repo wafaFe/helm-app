@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  app:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2024-06-26T16:51:00.943648867+02:00"
+    description: A Helm chart for any application
+    digest: 6bc9c6ce01bbe71dc6aad1fe3caee2f588e96f9ad1858ffabab489c3d5260cc2
+    home: https://github.com/wkrzywiec/k8s-helm-helmfile/tree/master/helm
+    keywords:
+    - app
+    - java
+    - javascript
+    - angular
+    maintainers:
+    - name: John Doe
+      url: https://github.com/wkrzywiec
+    name: app
+    type: application
+    urls:
+    - https://wafaFe.github.io/helm-app/app-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-06-26T16:51:00.943370946+02:00"
